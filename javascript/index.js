@@ -22,7 +22,3 @@ window.addEventListener('load', () => {
     
     
 });
-parallax_elements.forEach(element => {
-    let speedx = element.dataset.speedX;
-    console.log(speedx);
-});
